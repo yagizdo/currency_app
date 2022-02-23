@@ -1,16 +1,43 @@
-# api_example
+# Flutter - Simple Currency App
 
-A new Flutter project.
+A simple currency app I made to learn the dio package.
 
-## Getting Started
+API I use : https://www.frankfurter.app/docs/
 
-This project is a starting point for a Flutter application.
+## Run Locally
 
-A few resources to get you started if this is your first Flutter project:
+Clone the project
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```bash
+  git clone https://github.com/yagizdo/currency_app
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Go to the project directory
+
+```bash
+  cd flutter-currency-app-master
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Run App
+
+```bash
+  flutter run
+```
+
+
+##  Libraries I use in the application:
+- Dio : https://pub.dev/packages/dio
+
+## Screenshots
+
+<img align="center" width="400" height="900" src="screenshots/homepage.png">
+
+## Contributing
+
+Contributions are always welcome!
