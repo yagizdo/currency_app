@@ -37,6 +37,7 @@ Run App
 ## Screenshots
 
 <img align="center" width="400" height="900" src="screenshots/homepage.png">
+<img align="center" width="400" height="900" src="screenshots/currencyss.png">
 
 ## Contributing
 
